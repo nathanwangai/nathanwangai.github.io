@@ -6,7 +6,7 @@ permalink: /research
 
 ### Publications
 1. **Wang N**, Lee CY, Park HC, Nauen DW, Chaichana KL, Quinones-Hinojosa A, Bettegowda C, Li X:
-<span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>.
+[<span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>](doi.org/10.1364/BOE.477311).
 Biomedical Optics Express, doi.org/10.1364/BOE.477311, 2023
 2. **Wang N**, Li MZ, Haverinen P:
 <span style="color:blue">**Photon-counting CT thermometry via material decomposition and machine learning**</span>.
