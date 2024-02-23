@@ -6,11 +6,11 @@ permalink: /research
 
 ### Publications
 1. **Wang N**, Lee CY, Park HC, Nauen DW, Chaichana KL, Quinones-Hinojosa A, Bettegowda C, Li X:
-[<span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>](doi.org/10.1364/BOE.477311).
-Biomedical Optics Express, doi.org/10.1364/BOE.477311, 2023
+<span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>.
+Biomedical Optics Express, 2023 [link](doi.org/10.1364/BOE.477311)
 2. **Wang N**, Li MZ, Haverinen P:
 <span style="color:blue">**Photon-counting CT thermometry via material decomposition and machine learning**</span>.
-Visual Computing for Industry, Biomedicine, and Art (Springer), doi.org/10.1186/s42492-022-00129-w, 2023
+Visual Computing for Industry, Biomedicine, and Art (Springer), 2023 [link](doi.org/10.1186/s42492-022-00129-w)
 
 [3] Wang N, Tonko P, Ragav N, Chongyoun M, Plucker J: A perspective on K-12 AI education.
 Technology and Innovation (Journal of the National Academy of Inventors),
