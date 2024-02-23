@@ -6,15 +6,16 @@ permalink: /research
 
 ### Publications
 1. **Wang N**, Lee CY, Park HC, Nauen DW, Chaichana KL, Quinones-Hinojosa A, Bettegowda C, Li X:
-<span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>.
-Biomedical Optics Express, 2023 [link](doi.org/10.1364/BOE.477311)
+  <span style="color:blue">**Deep learning-based OCT image analysis of human brain cancer**</span>.
+  Biomedical Optics Express, 2023, [link](doi.org/10.1364/BOE.477311)
 2. **Wang N**, Li MZ, Haverinen P:
-<span style="color:blue">**Photon-counting CT thermometry via material decomposition and machine learning**</span>.
-Visual Computing for Industry, Biomedicine, and Art (Springer), 2023 [link](doi.org/10.1186/s42492-022-00129-w)
+  <span style="color:blue">**Photon-counting CT thermometry via material decomposition and machine learning**</span>.
+  Visual Computing for Industry, Biomedicine, and Art (Springer), 2023, [link](doi.org/10.1186/s42492-022-00129-w)
+3. **Wang N**, Tonko P, Ragav N, Chongyoun M, Plucker J:
+   <span style="color:blue">**A perspective on K-12 AI education**</span>.
+   Technology and Innovation (Journal of the National Academy of Inventors), 2022, [link](doi.org/10.21300/23.1.2023.2)
 
-[3] Wang N, Tonko P, Ragav N, Chongyoun M, Plucker J: A perspective on K-12 AI education.
-Technology and Innovation (Journal of the National Academy of Inventors),
-doi.org/10.21300/23.1.2023.2, 2022
+
 [4] Wang N, Li M, Shan H, Yan P: Deep learning-based CT thermometry for thermal tumor ablation..
 Proceedings of SPIE Vol. 11113, Developments in X-Ray Tomography XII,
 doi.org/10.1117/12.2530771, 2019
